@@ -8,4 +8,4 @@ The MicroMouse Maze Solver Algorithm is a software solution that allows a robot 
 
 ## License
 
-This project is licensed under the [MIT License](license.md).
+This project is licensed under the [MIT License](license.md). The binary maze layout files I used can be found in Peter Harrison's [micromouse_maze_tool](https://github.com/micromouseonline/micromouse_maze_tool) repository.
